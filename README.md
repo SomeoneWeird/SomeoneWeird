@@ -4,11 +4,13 @@ I do things, including, but not limited to:
   - :closed_lock_with_key: _Security_
     - Console hacking @ [**ReSwitched**](https://github.com/reswitched)
   - :gear: _DevOps_
-    - CI & developer acceleration
+    - CI
     - Infrastructure Automation
     - Kubernetes/Docker
   - :tada: _JS/TS/Go/Rust_
     - Or whatever language fits the problem..
+  - :computer: Developer Acceleration
+    - Happy devs = Happy users
   - :movie_camera: _Video Engineering_
     - Performance, delivery, DRM, transcoding.
   - :video_game: _Gaming_
