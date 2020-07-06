@@ -4,6 +4,7 @@ I do things, including, but not limited to:
   - :closed_lock_with_key: _Security_
     - Console hacking @ [**ReSwitched**](https://github.com/reswitched)
   - :gear: _DevOps_
+    - CI & developer acceleration
     - Infrastructure Automation
     - Kubernetes/Docker
   - :tada: _JS/TS/Go/Rust_
