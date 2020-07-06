@@ -1,16 +1,15 @@
-### Hi there 👋
+## :wave: Hi, I'm Adam.
 
-<!--
-**SomeoneWeird/SomeoneWeird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I do things, including, but not limited to: 
+  - :closed_lock_with_key: _Security_
+    - Console hacking @ [**ReSwitched**](https://github.com/reswitched)
+  - :gear: _DevOps_
+    - Infrastructure Automation
+    - Kubernetes/Docker
+  - :tada: _JS/TS/Go/Rust_
+    - Or whatever language fits the problem..
+  - :movie_camera: _Video Engineering_
+    - Performance, delivery, DRM, transcoding.
+  - :video_game: _Gaming_
+    - Find me typically playing Dota2, but also learning & developing with Unity + Unreal in my free time.
+    
